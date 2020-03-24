@@ -11,7 +11,7 @@ export default function About() {
             <h5 className="card-title">Developer information</h5>
             <p>Long Nopphon (610612057)</p>
             <p>Nopphon chaiwanna</p>
-            <Link to="/">
+            <Link to="/lab8dep">
               <h3>
                 <button type="button" className="btn btn-primary">Home</button>
               </h3>
